@@ -1,3 +1,11 @@
+# Meus
+/bin
+/audios
+/transcricoes
+/videos
+/__pycache__
+/transcricoes_visuais
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
