@@ -1,0 +1,26 @@
+# Instalação:
+# py -m pip install -r requirements.txt
+
+# Download de vídeos/áudios do YouTube
+yt-dlp
+
+# Transcrição de áudio com Whisper
+openai-whisper
+
+# Leitura de variáveis do arquivo .env
+python-dotenv
+
+# Processamento de áudio
+pydub
+
+# Processamento numérico utilizado pelo Whisper
+numpy
+
+# PyTorch — necessário para execução do Whisper
+torch
+
+# Processamento de imagens - necessário para OCR
+opencv-python
+
+# OCR (Reconhecimento Óptico de Caracteres)
+pytesseract
