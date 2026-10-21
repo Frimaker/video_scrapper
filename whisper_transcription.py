@@ -36,7 +36,7 @@ def formatar_timestamp(segundos: float) -> str:
             horas += 1
             minutos = 0
 
-    return f"{horas:02d}:{minutos:02d}:{segs:02d}.{milissegundos:03d}"
+    return f"{horas:02d}:{minutos:02d}:{segs:02d}"
 
 
 def whisper_transcribe(model_option: str, audio_input: Path):
@@ -83,4 +83,4 @@ def whisper_transcribe(model_option: str, audio_input: Path):
     print(json.dumps(transcricao_json, ensure_ascii=False, indent=2))
     print(f"Transcrição JSON salva em: {arquivo_saida}")
 
-    return transcricao_json
+    return arquivo_saida

@@ -1,26 +1,25 @@
-# Instalação:
-# py -m pip install -r requirements.txt
+# Instale as dependências com: python -m pip install -r requirements.txt
+# Depois baixe o modelo semântico com: python hugger.py
 
-# Download de vídeos/áudios do YouTube
+# Download de vídeos do YouTube
 yt-dlp
 
-# Transcrição de áudio com Whisper
+# Transcrição de áudio
 openai-whisper
 
-# Leitura de variáveis do arquivo .env
+# Configuração por .env
 python-dotenv
 
-# Processamento de áudio
+# Processamento de áudio e vídeo
 pydub
-
-# Processamento numérico utilizado pelo Whisper
 numpy
-
-# PyTorch — necessário para execução do Whisper
 torch
-
-# Processamento de imagens - necessário para OCR
 opencv-python
 
-# OCR (Reconhecimento Óptico de Caracteres)
+# OCR e leitura de imagens
 pytesseract
+Pillow
+
+# Embeddings e modelo semântico
+sentence-transformers
+huggingface-hub

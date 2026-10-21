@@ -4,6 +4,9 @@ import sys
 from whisper_transcription import whisper_transcribe
 from ffmpeg_audio import verificar_ffmpeg, extrair_audio
 from youtube_download import download_video
+from sentence_semantics import rank_semantics
+from ffmpeg_frame import get_frames
+from visual_transcription import transcribe_frames
 
 
 # O main:
@@ -42,12 +45,24 @@ def main():
             video=video
         )
 
-        transcricao = whisper_transcribe(
+        local_transcricao = whisper_transcribe(
             model_option=args.model,
             audio_input=arquivo_saida
         )
 
-        return transcricao
+        rankeamento = rank_semantics(
+            local_transcricao=local_transcricao,
+            video_name=video
+        )
+
+        video_frames = get_frames(
+            video_name=video,
+            local_transcricao=rankeamento
+        )
+
+        frame_transcription = transcribe_frames(
+            diretorio=video_frames
+        )
 
     except Exception as erro:
         print(f"\nErro: {erro}", file=sys.stderr)
