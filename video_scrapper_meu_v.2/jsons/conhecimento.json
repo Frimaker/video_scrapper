@@ -1,0 +1,188 @@
+{
+  "arquivo_origem": "transcricao.json",
+  "modelo": "redule26/huihui_ai_qwen2.5-vl-7b-abliterated:latest",
+  "temas": [
+    {
+      "ideias": [
+        {
+          "descricao": "Introdução ao vídeo",
+          "evidencias": [
+            {
+              "segmento_id": 1
+            }
+          ],
+          "tipo": "fato_declarado"
+        },
+        {
+          "descricao": "Objetivo do vídeo",
+          "evidencias": [
+            {
+              "segmento_id": 2
+            }
+          ],
+          "tipo": "fato_declarado"
+        },
+        {
+          "descricao": "Uso do Fury para criar um pedido de compra",
+          "evidencias": [
+            {
+              "segmento_id": 3
+            },
+            {
+              "segmento_id": 4
+            },
+            {
+              "segmento_id": 5
+            }
+          ],
+          "tipo": "fato_declarado"
+        },
+        {
+          "descricao": "Interface do Fury",
+          "evidencias": [
+            {
+              "segmento_id": 6
+            },
+            {
+              "segmento_id": 7
+            },
+            {
+              "segmento_id": 8
+            }
+          ],
+          "tipo": "fato_declarado"
+        },
+        {
+          "descricao": "Criação de um pedido de compra",
+          "evidencias": [
+            {
+              "segmento_id": 9
+            },
+            {
+              "segmento_id": 10
+            },
+            {
+              "segmento_id": 11
+            },
+            {
+              "segmento_id": 12
+            },
+            {
+              "segmento_id": 13
+            },
+            {
+              "segmento_id": 14
+            },
+            {
+              "segmento_id": 15
+            },
+            {
+              "segmento_id": 16
+            },
+            {
+              "segmento_id": 17
+            },
+            {
+              "segmento_id": 18
+            },
+            {
+              "segmento_id": 19
+            },
+            {
+              "segmento_id": 20
+            },
+            {
+              "segmento_id": 21
+            },
+            {
+              "segmento_id": 22
+            },
+            {
+              "segmento_id": 23
+            },
+            {
+              "segmento_id": 24
+            },
+            {
+              "segmento_id": 25
+            },
+            {
+              "segmento_id": 26
+            },
+            {
+              "segmento_id": 27
+            },
+            {
+              "segmento_id": 28
+            },
+            {
+              "segmento_id": 29
+            },
+            {
+              "segmento_id": 30
+            },
+            {
+              "segmento_id": 31
+            },
+            {
+              "segmento_id": 32
+            },
+            {
+              "segmento_id": 33
+            },
+            {
+              "segmento_id": 34
+            },
+            {
+              "segmento_id": 35
+            },
+            {
+              "segmento_id": 36
+            },
+            {
+              "segmento_id": 37
+            },
+            {
+              "segmento_id": 38
+            },
+            {
+              "segmento_id": 39
+            },
+            {
+              "segmento_id": 40
+            },
+            {
+              "segmento_id": 41
+            },
+            {
+              "segmento_id": 42
+            },
+            {
+              "segmento_id": 43
+            },
+            {
+              "segmento_id": 44
+            },
+            {
+              "segmento_id": 45
+            },
+            {
+              "segmento_id": 46
+            },
+            {
+              "segmento_id": 47
+            },
+            {
+              "segmento_id": 48
+            },
+            {
+              "segmento_id": 49
+            }
+          ],
+          "tipo": "fato_declarado"
+        }
+      ],
+      "nome": "Criação de um pedido de compra no Fury"
+    }
+  ]
+}

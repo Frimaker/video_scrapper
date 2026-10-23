@@ -1,0 +1,355 @@
+{
+  "arquivo_audio": "C:\\AI\\video_scrapper_1\\audios\\How_to_create_Purchase_order_in_Fiori_How_to_use_Fiori_in_S4_HANA_J3iy-dOnEDs.mp3",
+  "modelo": "base",
+  "idioma": "en",
+  "segmentos": [
+    {
+      "inicio": "00:00:00",
+      "fim": "00:00:05",
+      "inicio_segundos": 0.0,
+      "fim_segundos": 5.12,
+      "texto": "Hello friends, good morning, good afternoon, good evening."
+    },
+    {
+      "inicio": "00:00:05",
+      "fim": "00:00:09",
+      "inicio_segundos": 5.12,
+      "fim_segundos": 9.28,
+      "texto": "In this video, we are going to see how we can create a purchase order in Fury."
+    },
+    {
+      "inicio": "00:00:09",
+      "fim": "00:00:14",
+      "inicio_segundos": 9.28,
+      "fim_segundos": 14.36,
+      "texto": "So, with the help of that Fury, with the help of that Fury tile or Fury application,"
+    },
+    {
+      "inicio": "00:00:14",
+      "fim": "00:00:16",
+      "inicio_segundos": 14.36,
+      "fim_segundos": 16.52,
+      "texto": "how we can create a purchase order?"
+    },
+    {
+      "inicio": "00:00:16",
+      "fim": "00:00:20",
+      "inicio_segundos": 16.52,
+      "fim_segundos": 20.64,
+      "texto": "So, this is a Fury tile to create a purchase order.",
+      "imagem_anexo": "/imagens/00.00.16_this is"
+    },
+    {
+      "inicio": "00:00:20",
+      "fim": "00:00:27",
+      "inicio_segundos": 20.64,
+      "fim_segundos": 27.2,
+      "texto": "It looks almost same like we are creating a purchase order through Buie, but the UI is"
+    },
+    {
+      "inicio": "00:00:27",
+      "fim": "00:00:28",
+      "inicio_segundos": 27.2,
+      "fim_segundos": 28.64,
+      "texto": "a little bit different, right?"
+    },
+    {
+      "inicio": "00:00:28",
+      "fim": "00:00:31",
+      "inicio_segundos": 28.64,
+      "fim_segundos": 31.96,
+      "texto": "The fields and everything is same, but the UI is a little bit different."
+    },
+    {
+      "inicio": "00:00:31",
+      "fim": "00:00:33",
+      "inicio_segundos": 31.96,
+      "fim_segundos": 33.28,
+      "texto": "So, how to create that?"
+    },
+    {
+      "inicio": "00:00:33",
+      "fim": "00:00:34",
+      "inicio_segundos": 33.28,
+      "fim_segundos": 34.68,
+      "texto": "Let me show you."
+    },
+    {
+      "inicio": "00:00:34",
+      "fim": "00:00:36",
+      "inicio_segundos": 34.68,
+      "fim_segundos": 36.92,
+      "texto": "And we just giving the supplier number here."
+    },
+    {
+      "inicio": "00:00:36",
+      "fim": "00:00:41",
+      "inicio_segundos": 36.92,
+      "fim_segundos": 41.32,
+      "texto": "So, this is my supplier number and different, different taps are there."
+    },
+    {
+      "inicio": "00:00:41",
+      "fim": "00:00:43",
+      "inicio_segundos": 41.32,
+      "fim_segundos": 43.8,
+      "texto": "So, we are just going to that org data."
+    },
+    {
+      "inicio": "00:00:43",
+      "fim": "00:00:45",
+      "inicio_segundos": 43.8,
+      "fim_segundos": 45.28,
+      "texto": "That's a mandatory fee."
+    },
+    {
+      "inicio": "00:00:45",
+      "fim": "00:00:47",
+      "inicio_segundos": 45.28,
+      "fim_segundos": 47.28,
+      "texto": "So, we are giving purchase order here.",
+      "imagem_anexo": "/imagens/00.00.45_put this here"
+    },
+    {
+      "inicio": "00:00:47",
+      "fim": "00:00:51",
+      "inicio_segundos": 47.28,
+      "fim_segundos": 51.8,
+      "texto": "So, MY01 is my purchase organization that I am giving here."
+    },
+    {
+      "inicio": "00:00:51",
+      "fim": "00:00:54",
+      "inicio_segundos": 51.8,
+      "fim_segundos": 54.52,
+      "texto": "My purchase group 001."
+    },
+    {
+      "inicio": "00:00:54",
+      "fim": "00:01:01",
+      "inicio_segundos": 54.52,
+      "fim_segundos": 61.52,
+      "texto": "My company code MAB."
+    },
+    {
+      "inicio": "00:01:01",
+      "fim": "00:01:09",
+      "inicio_segundos": 61.52,
+      "fim_segundos": 69.84,
+      "texto": "So, this field needs to be entered here.",
+      "imagem_anexo": "/imagens/00.01.09_put this here"
+    },
+    {
+      "inicio": "00:01:09",
+      "fim": "00:01:17",
+      "inicio_segundos": 69.84,
+      "fim_segundos": 77.56,
+      "texto": "Then, here it is."
+    },
+    {
+      "inicio": "00:01:17",
+      "fim": "00:01:19",
+      "inicio_segundos": 77.56,
+      "fim_segundos": 79.56,
+      "texto": "This is item overview.",
+      "imagem_anexo": "/imagens/00.01.19_this is"
+    },
+    {
+      "inicio": "00:01:20",
+      "fim": "00:01:25",
+      "inicio_segundos": 80.12,
+      "fim_segundos": 85.64,
+      "texto": "So, let me give these details here, item overview."
+    },
+    {
+      "inicio": "00:01:25",
+      "fim": "00:01:32",
+      "inicio_segundos": 85.64,
+      "fim_segundos": 92.64,
+      "texto": "Material number."
+    },
+    {
+      "inicio": "00:01:32",
+      "fim": "00:01:34",
+      "inicio_segundos": 92.64,
+      "fim_segundos": 94.88,
+      "texto": "Then, yeah."
+    },
+    {
+      "inicio": "00:01:34",
+      "fim": "00:01:49",
+      "inicio_segundos": 94.88,
+      "fim_segundos": 109.44,
+      "texto": "So, just giving all these details, material is matte 4542."
+    },
+    {
+      "inicio": "00:02:04",
+      "fim": "00:02:14",
+      "inicio_segundos": 124.88,
+      "fim_segundos": 134.88,
+      "texto": "So, it is little bit lagging."
+    },
+    {
+      "inicio": "00:02:14",
+      "fim": "00:02:18",
+      "inicio_segundos": 134.88,
+      "fim_segundos": 138.88,
+      "texto": "Yeah."
+    },
+    {
+      "inicio": "00:02:18",
+      "fim": "00:02:25",
+      "inicio_segundos": 138.88,
+      "fim_segundos": 145.68,
+      "texto": "So, here it is."
+    },
+    {
+      "inicio": "00:02:26",
+      "fim": "00:02:31",
+      "inicio_segundos": 146.18,
+      "fim_segundos": 151.28,
+      "texto": "G2."
+    },
+    {
+      "inicio": "00:02:31",
+      "fim": "00:02:34",
+      "inicio_segundos": 151.28,
+      "fim_segundos": 154.92,
+      "texto": "Then, quantitative, how much quantitative you are ordering?"
+    },
+    {
+      "inicio": "00:02:34",
+      "fim": "00:02:36",
+      "inicio_segundos": 154.92,
+      "fim_segundos": 156.86,
+      "texto": "Let's suppose 100 quantitative you are ordering."
+    },
+    {
+      "inicio": "00:02:36",
+      "fim": "00:02:37",
+      "inicio_segundos": 156.86,
+      "fim_segundos": 157.86,
+      "texto": "Net price."
+    },
+    {
+      "inicio": "00:02:37",
+      "fim": "00:02:40",
+      "inicio_segundos": 157.86,
+      "fim_segundos": 160.56,
+      "texto": "Let's suppose 100 INR."
+    },
+    {
+      "inicio": "00:02:40",
+      "fim": "00:02:45",
+      "inicio_segundos": 160.56,
+      "fim_segundos": 165.08,
+      "texto": "Delivery date, this is not mandatory fee, this is just optional."
+    },
+    {
+      "inicio": "00:02:45",
+      "fim": "00:02:46",
+      "inicio_segundos": 165.08,
+      "fim_segundos": 166.08,
+      "texto": "And storage locations."
+    },
+    {
+      "inicio": "00:02:46",
+      "fim": "00:02:48",
+      "inicio_segundos": 166.08,
+      "fim_segundos": 168.24,
+      "texto": "So, I am just giving a mandatory data here."
+    },
+    {
+      "inicio": "00:02:55",
+      "fim": "00:03:14",
+      "inicio_segundos": 175.68,
+      "fim_segundos": 194.36,
+      "texto": "storage location and just hit enter, right. And it is just a warning that we can ignore"
+    },
+    {
+      "inicio": "00:03:14",
+      "fim": "00:03:20",
+      "inicio_segundos": 194.36,
+      "fim_segundos": 200.48,
+      "texto": "like price is this material price is this one, it is fine it is not a problem. We can check"
+    },
+    {
+      "inicio": "00:03:20",
+      "fim": "00:03:26",
+      "inicio_segundos": 200.48,
+      "fim_segundos": 206.9,
+      "texto": "from here. So, in GUI there is a icon for that, but here it is written. So, you can just"
+    },
+    {
+      "inicio": "00:03:26",
+      "fim": "00:03:34",
+      "inicio_segundos": 206.9,
+      "fim_segundos": 214.3,
+      "texto": "click on check, they just a warning the warnings we can just ignore it is fine no problem.",
+      "imagem_anexo": "/imagens/00.03.26_go here"
+    },
+    {
+      "inicio": "00:03:34",
+      "fim": "00:03:41",
+      "inicio_segundos": 214.3,
+      "fim_segundos": 221.32,
+      "texto": "And then we can just save it, just save from here. So, like that purchase order is created."
+    },
+    {
+      "inicio": "00:03:41",
+      "fim": "00:03:46",
+      "inicio_segundos": 221.32,
+      "fim_segundos": 226.6,
+      "texto": "So, here you can see purchase order is created like that you can create a purchase order"
+    },
+    {
+      "inicio": "00:03:46",
+      "fim": "00:03:51",
+      "inicio_segundos": 226.6,
+      "fim_segundos": 231.56,
+      "texto": "with the help of that Fury tiles of Fury app. The same purchase order you can see in"
+    },
+    {
+      "inicio": "00:03:51",
+      "fim": "00:03:57",
+      "inicio_segundos": 231.56,
+      "fim_segundos": 237.48,
+      "texto": "a GUI also, right. So, database as database is same for both. So, we can see that same"
+    },
+    {
+      "inicio": "00:03:57",
+      "fim": "00:04:02",
+      "inicio_segundos": 237.48,
+      "fim_segundos": 242.28,
+      "texto": "purchase order in that GUI as well as we can see that same purchase order in that"
+    },
+    {
+      "inicio": "00:04:02",
+      "fim": "00:04:09",
+      "inicio_segundos": 242.28,
+      "fim_segundos": 249.52,
+      "texto": "GUI time, right. So, hopefully this is clear to you. And if you feel this value is valuable"
+    },
+    {
+      "inicio": "00:04:09",
+      "fim": "00:04:13",
+      "inicio_segundos": 249.52,
+      "fim_segundos": 253.84,
+      "texto": "and add some value in your learning please make sure to like this video, please make sure"
+    },
+    {
+      "inicio": "00:04:13",
+      "fim": "00:04:17",
+      "inicio_segundos": 253.84,
+      "fim_segundos": 257.78,
+      "texto": "to subscribe our YouTube channel and please make sure to share this video in your"
+    },
+    {
+      "inicio": "00:04:17",
+      "fim": "00:04:21",
+      "inicio_segundos": 257.78,
+      "fim_segundos": 261.56,
+      "texto": "SAP circle. So, thank you, thanks a lot May God bless you all."
+    }
+  ]
+}
